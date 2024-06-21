@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         Testing react app
       </header>
-      <p>This is react testing library for ci-cd pipeline using aws</p>
+      <p>This is react testing library ci-cd pipeline using aws</p>
     </div>
   );
 }
